@@ -1,0 +1,4 @@
+# ninja log v6
+1	479	1742360797565344376	CMakeFiles/testVector.dir/Vector.cpp.o	7a1773cf0a7df174
+3	384	1742360925796885237	CMakeFiles/testVector.dir/testVector.cpp.o	e2b912859917f5e0
+384	499	1742360926178410877	testVector	d64626cfddcf5679

@@ -7,7 +7,7 @@
 #include <iostream>
 using std::size_t;
 // Unit Test Scaffolding: Users call test_, fail_, succeed_, throw_, nothrow_, and
-report_
+//report_
 // AUTHOR: Chuck Allison (Creative Commons License, 2001 - 2017)
 namespace {
     size_t nPass{0};
